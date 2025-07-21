@@ -1,4 +1,4 @@
-## Project Overview
+## Files
 
 This repository contains 20 CSV files, 1 Excel file, 5 Jupyter notebooks, and a PDF report.
 
@@ -15,8 +15,8 @@ This repository contains 20 CSV files, 1 Excel file, 5 Jupyter notebooks, and a 
 
 - For modeling:
   - **Multiple Linear Regression**: `Linear_models.ipynb`
-  - **Random Forests & Deep Forests**: `DeepForests_models.ipynb`
-  - **Extreme Gradient Boosting (XGBoost)**: `XGBoost_models.ipynb`
+  - **Deep Forests**: `DeepForests_models.ipynb`
+  - **XGBoost**: `XGBoost_models.ipynb`
 
 ## Report
 
